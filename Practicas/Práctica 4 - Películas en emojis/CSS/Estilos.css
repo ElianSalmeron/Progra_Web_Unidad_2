@@ -1,0 +1,43 @@
+body{
+    background-color: #C5EBFE;
+}
+
+h1{
+    color: #957DAD;
+    font-size: 2.5rem;
+    margin-bottom: 12px;
+}
+
+h2{
+    color: #957DAD;
+    font-size: 2rem;
+    margin-top: 0px;
+}
+
+summary{
+    font-size: 4rem;
+}
+
+p{
+    margin-top: 5px;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+img{
+    border-bottom: 0px;
+}
+
+h4{
+    font-size: 1.5rem;
+    text-align: center;
+    border-top: 0px;
+}
+
+span.impar{
+    background-color: #B49FDC;
+}
+
+span.par{
+    background-color: #FEFD97;
+}
